@@ -7,4 +7,4 @@ This is line 6
 This is line 7
 This is line 8
 This is line 9
-
+Line 10 was added in the master branch
