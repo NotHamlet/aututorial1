@@ -5,7 +5,8 @@ This is line 4
 This is line 5, which has changed on the foo branch
 This is line 6
 This is line 7
-This is line 8 on master. It will conflict.
+This is line 8 after I have resolved the conflict.
 This is line 9
 Line 10 was added in the master branch
 This line was added at the bottom of the file in master.
+This line was added at the bottom of the file in bar.
